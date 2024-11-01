@@ -1,0 +1,82 @@
+.social_way_steam_appnews{
+    background-color: #4D4B48;
+    margin-bottom: 12px;
+    padding: 7px;
+}
+
+.social_way_steam_appnews .social_way_steam_title{
+    font-size: 21px;
+}
+
+.social_way_steam_appnews .social_way_steam_title a, .social_way_steam_appnews .social_way_steam_content a{
+    color: white;
+}
+
+.social_way_steam_appnews .social_way_steam_title a:hover, .social_way_steam_appnews .social_way_steam_content a:hover{
+    color: #B9B7B5;
+}
+
+.social_way_steam_appnews .social_way_steam_author{
+    color: #B9B7B5;
+    font-size: 14px;
+    border-bottom: 1px solid #65635F;
+    padding-bottom: 2px;
+
+}
+
+.social_way_steam_appnews .social_way_steam_content{
+    margin-top: 4px;
+    color: #B9B7B5;
+    font-size: 16px;
+    font-style: italic;
+}
+
+
+.social_way_steam_user{
+    background-color: #4D4B48;
+    margin-bottom: 12px;
+    padding: 7px;
+}
+
+.social_way_steam_user .social_way_steam_name{
+    font-size: 25px;
+}
+
+.social_way_steam_user .social_way_steam_name a, .social_way_steam_user .social_way_steam_games a{
+    padding: 4px 0 4px 0;
+    display: block;
+    width: 100%;
+    transition:			background-color 300ms ease-in-out, color 300ms ease-in-out;
+    -moz-transition:	background-color 300ms ease-in-out, color 300ms ease-in-out;
+    -webkit-transition:	background-color 300ms ease-in-out, color 300ms ease-in-out;
+    -o-transition:		background-color 300ms ease-in-out, color 300ms ease-in-out;
+    color: white;
+}
+
+.social_way_steam_user .social_way_steam_name a:hover, .social_way_steam_user .social_way_steam_games a:hover{
+    color: #B9B7B5;
+    background-color: #676562;
+
+}
+
+.social_way_steam_user .social_way_steam_games a{
+    //padding: 4px 0 4px 0;
+    border-bottom: 1px solid #65635F;
+
+}
+
+.social_way_steam_user .social_way_steam_games a img{
+    opacity: 0.7;
+    transition:			opacity 300ms ease-in-out;
+    -moz-transition:	opacity 300ms ease-in-out;
+    -webkit-transition:	opacity 300ms ease-in-out;
+    -o-transition:		opacity 300ms ease-in-out;
+}
+
+.social_way_steam_user .social_way_steam_games a:hover img{
+    opacity: 1;
+}
+
+.social_way_steam_user .social_way_steam_games a:hover{
+    background-color: #676562;
+}

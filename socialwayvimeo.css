@@ -1,0 +1,156 @@
+.social_way_vimeo_user{
+    background-color: #86c9ef;
+    padding: 7px;
+}
+
+.social_way_vimeo_user .social_way_vimeo_name{
+    border-bottom: 2px solid #50788f;
+}
+
+.social_way_vimeo_user .social_way_vimeo_name a{
+    display: block;
+    width: 100%;
+    font-size: 21px;
+    color: #ffffff;
+    transition:			color 300ms ease-in-out;
+    -moz-transition:	color 300ms ease-in-out;
+    -webkit-transition:	color 300ms ease-in-out;
+    -o-transition:		color 300ms ease-in-out;
+}
+
+.social_way_vimeo_user .social_way_vimeo_name a img{
+    margin-right: 3px;
+}
+
+.social_way_vimeo_user .social_way_vimeo_name a:hover{
+    color: #080808;
+}
+
+.social_way_vimeo_user .social_way_vimeo_name span{
+}
+
+.social_way_vimeo_user .social_way_vimeo_location{
+    border-bottom: 1px solid #50788f;
+
+}
+
+.social_way_vimeo_user .social_way_vimeo_website{
+    border-bottom: 1px solid #50788f;
+
+}
+
+.social_way_vimeo_user .social_way_vimeo_bio{
+
+}
+
+.social_way_vimeo_user .social_way_vimeo_count{
+
+}
+
+.social_way_vimeo_user .social_way_vimeo_count .social_way_vimeo_likes{
+
+}
+
+.social_way_vimeo_user .social_way_vimeo_count .social_way_vimeo_appear{
+
+}
+
+.social_way_vimeo_album{
+    margin-right: 8px;
+    border: 3px solid #c3c3c3;
+    display: inline-block;
+    opacity: 0.6;
+    transition:			opacity 300ms ease-in-out;
+    -moz-transition:	opacity 300ms ease-in-out;
+    -webkit-transition:	opacity 300ms ease-in-out;
+    -o-transition:		opacity 300ms ease-in-out;
+}
+.social_way_vimeo_album:hover{
+    opacity: 1;
+}
+
+
+
+
+.social_way_vimeo_channel{
+     background-color: #86c9ef;
+     padding: 7px;
+     margin-bottom: 16px;
+ }
+
+
+.social_way_vimeo_channel .social_way_vimeo_channel_logo{
+    border-bottom: 2px solid #50788f;
+    opacity: 0.7;
+    transition:			opacity 300ms ease-in-out;
+    -moz-transition:	opacity 300ms ease-in-out;
+    -webkit-transition:	opacity 300ms ease-in-out;
+    -o-transition:		opacity 300ms ease-in-out;
+}
+
+.social_way_vimeo_channel:hover .social_way_vimeo_channel_logo{
+    opacity: 1;
+}
+.social_way_vimeo_channel .social_way_vimeo_channel_title{
+    border-bottom: 1px solid #50788f;
+    font-size: 21px;
+}
+
+.social_way_vimeo_channel .social_way_vimeo_channel_title a, .social_way_vimeo_channel .social_way_vimeo_channel_from a{
+    color: #ffffff;
+    transition:			color 300ms ease-in-out;
+    -moz-transition:	color 300ms ease-in-out;
+    -webkit-transition:	color 300ms ease-in-out;
+    -o-transition:		color 300ms ease-in-out;
+}
+
+.social_way_vimeo_channel .social_way_vimeo_channel_title a:hover, .social_way_vimeo_channel .social_way_vimeo_channel_from a:hover{
+    color: #080808;
+}
+.social_way_vimeo_channel .social_way_vimeo_channel_from{
+    border-bottom: 2px solid #50788f;
+    font-size: 16px;
+}
+
+
+
+
+.social_way_vimeo_group{
+    background-color: #86c9ef;
+    padding: 7px;
+    margin-bottom: 16px;
+}
+
+
+.social_way_vimeo_group .social_way_vimeo_group_logo{
+    border-bottom: 2px solid #50788f;
+    opacity: 0.7;
+    transition:			opacity 300ms ease-in-out;
+    -moz-transition:	opacity 300ms ease-in-out;
+    -webkit-transition:	opacity 300ms ease-in-out;
+    -o-transition:		opacity 300ms ease-in-out;
+}
+
+.social_way_vimeo_group:hover .social_way_vimeo_group_logo{
+    opacity: 1;
+}
+.social_way_vimeo_channel .social_way_vimeo_channel_title{
+    border-bottom: 1px solid #50788f;
+    font-size: 21px;
+}
+
+.social_way_vimeo_group .social_way_vimeo_group_title a, .social_way_vimeo_group .social_way_vimeo_group_from a{
+    color: #ffffff;
+    transition:			color 300ms ease-in-out;
+    -moz-transition:	color 300ms ease-in-out;
+    -webkit-transition:	color 300ms ease-in-out;
+    -o-transition:		color 300ms ease-in-out;
+}
+
+.social_way_vimeo_group .social_way_vimeo_group_title a:hover, .social_way_vimeo_group .social_way_vimeo_group_from a:hover{
+    color: #080808;
+}
+.social_way_vimeo_group .social_way_vimeo_group_from{
+    border-bottom: 2px solid #50788f;
+    font-size: 16px;
+}

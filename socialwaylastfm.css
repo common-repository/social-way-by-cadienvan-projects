@@ -1,0 +1,89 @@
+.social_way_lastfm{
+    border: 3px solid black;
+    margin-bottom: 40px;
+    padding: 3px;
+}
+
+.social_way_lastfm_header{
+    border-bottom: 1px solid #c3c3c3;
+    color: #c3000d;
+}
+
+.social_way_lastfm_header a{
+    color: #c3000d;
+    text-decoration: none;
+    transition:			color 300ms ease-in-out;
+    -moz-transition:	color 300ms ease-in-out;
+    -webkit-transition:	color 300ms ease-in-out;
+    -o-transition:		color 300ms ease-in-out;
+}
+
+.social_way_lastfm_header a:hover{
+    color: #444444;
+}
+
+.social_way_lastfm_logo img{
+    opacity: 0.5;
+    transition:			opacity 300ms ease-in-out;
+    -moz-transition:	opacity 300ms ease-in-out;
+    -webkit-transition:	opacity 300ms ease-in-out;
+    -o-transition:		opacity 300ms ease-in-out;
+}
+
+.social_way_lastfm_logo img:hover{
+    opacity: 1;
+}
+
+.social_way_lastfm_title{
+    border-bottom: 1px solid #c3c3c3;
+}
+
+
+.social_way_lastfm_artist{
+    border-bottom: 1px solid #c3c3c3;
+}
+
+
+.social_way_lastfm_place{
+    border-bottom: 1px solid #c3c3c3;
+
+}
+
+.social_way_lastfm_date{
+    border-bottom: 1px solid #c3c3c3;
+
+}
+
+.social_way_lastfm_website{
+    border-bottom: 1px solid #c3c3c3;
+
+}
+
+
+.social_way_lastfm_body{
+    margin-top: 8px;
+}
+
+.social_way_lastfm_desc{
+    border-bottom: 1px solid #c3c3c3;
+
+}
+
+.social_way_lastfm_lasturl{
+
+}
+
+.social_way_lastfm_lasturl a{
+    display: block;
+    padding: 4px 8px;
+    background-color: #c3000d;
+    color: #ffffff;
+    transition:			background-color 300ms ease-in-out;
+    -moz-transition:	background-color 300ms ease-in-out;
+    -webkit-transition:	background-color 300ms ease-in-out;
+    -o-transition:		background-color 300ms ease-in-out;
+}
+
+.social_way_lastfm_lasturl a:hover{
+    background-color: #00af81;
+}

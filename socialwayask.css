@@ -1,0 +1,38 @@
+.socialway_ask{
+    background-color: #dddddd;
+    padding: 2px;
+    color: #080808;
+    border-bottom: 4px solid black;
+}
+
+.socialway_ask .socialway_ask_title{
+    margin-bottom: 0px;
+}
+
+.socialway_ask .socialway_ask_date{
+    margin-bottom: 16px;
+}
+
+.socialway_ask .socialway_ask_desc{
+
+}
+
+.socialway_ask .socialway_ask_desc a{
+    color: #0b35fc;
+    text-decoration: none;
+}
+
+.socialway_ask .socialway_ask_desc a:hover{
+    text-decoration: underline;
+    color: #0b5dfc;
+}
+
+.socialway_ask .socialway_ask_link a{
+    color: #0b35fc;
+    text-decoration: none;
+}
+
+.socialway_ask .socialway_ask_link a:hover{
+    text-decoration: underline;
+    color: #0b5dfc;
+}

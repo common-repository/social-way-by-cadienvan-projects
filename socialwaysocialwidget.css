@@ -1,0 +1,24 @@
+.social_way_social{
+    background: none !important;
+    display: inline-block;
+    margin: 0 6px 8px 6px;
+    opacity: 0.7;
+    width: 32px;
+    height: 32px;
+    transition:			opacity 300ms ease-in-out;
+    -moz-transition:	opacity 300ms ease-in-out;
+    -webkit-transition:	opacity 300ms ease-in-out;
+    -o-transition:		opacity 300ms ease-in-out;
+}
+
+.social_way_social:hover{
+    text-decoration: none;
+    border: 0;
+    opacity: 1;
+}
+
+.social_way_social img{
+    vertical-align: middle;
+    width: 32px;
+    height: 32px;
+}

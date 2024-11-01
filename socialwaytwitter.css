@@ -1,0 +1,69 @@
+.socialway_tweet .socialway_tweet_img{
+    float: left;
+    margin-right: 6px;
+}
+
+.socialway_tweet_header .socialway_tweet_fullname, .socialway_tweet_header .socialway_tweet_username{
+    display: inline-block;
+}
+
+.socialway_tweet_header .socialway_tweet_timestamp{
+    float: right;
+}
+
+.socialway_tweet{
+    border-bottom: 4px solid #aaaaaa;
+    background-color: #555555;
+    padding: 4px;
+    transition:			background-color 300ms ease-in-out, border-bottom-color 300ms ease-in-out;
+    -moz-transition:	background-color 300ms ease-in-out, border-bottom-color 300ms ease-in-out;
+    -webkit-transition:	background-color 300ms ease-in-out, border-bottom-color 300ms ease-in-out;
+    -o-transition:		background-color 300ms ease-in-out, border-bottom-color 300ms ease-in-out;
+}
+
+.socialway_tweet:hover{
+    background-color: #767676;
+    border-bottom-color: #BF4D28;
+
+}
+
+.socialway_tweet_header a{
+    text-decoration: none;
+}
+
+.socialway_tweet_header .socialway_tweet_fullname{
+    color: #badce9;
+    font-size: 18px;
+}
+.socialway_tweet_header .socialway_tweet_username{
+    color: #c3c3c3;
+    font-size: 14px;
+}
+
+.socialway_tweet_header .socialway_tweet_timestamp a{
+    color: #badce9;
+}
+
+.socialway_tweet_header a:hover .socialway_tweet_fullname{
+    text-decoration: underline;
+    color: #bad8e9;
+}
+
+.socialway_tweet_header a:hover .socialway_tweet_username{
+    opacity: 1;
+    color: #bad0e9;
+}
+
+.socialway_tweet_header .socialway_tweet_timestamp a:hover{
+    color: #c3c3c3;
+}
+
+.socialway_tweet .social_way_body{
+    margin-top: 6px;
+    color: #ffffff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.6);
+}
+
+.socialway_tweet .social_way_body a{
+    color: #bad8e9;
+}
